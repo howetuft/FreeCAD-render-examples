@@ -4,4 +4,4 @@ Examples for FreeCAD Render Workbench:
 - `Showerhead.zip`: assembly, metal materials
 - `Trumpet.FCStd`: demonstrates HDRI, mesh smoothing, brass material
 - `Villa Savoye.FCStd`: from https://github.com/paullee0/FreeCAD_Villa-Savoye
-- `brick_assembly_render`: demonstrates Assembly3, dark studio lighting
+- `brick_assembly_render`: demonstrates Assembly4, dark studio lighting
